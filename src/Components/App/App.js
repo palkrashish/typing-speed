@@ -7,6 +7,7 @@ const App = () => {
         <div className="app">
             {/* Nav Section */}
             <Nav />
+            Hello Universe!!
 
 
             {/* Landing page */}
