@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from '../Nav/Nav';
-import "./App.css";
+import './App.css';
 
 const App = () => {
     return (
